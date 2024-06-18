@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: hsl(51, 70%, 68%);
+    background-image: url(/big\ ben.webp);
+    background-size: cover;
+  }
+  
+  .stopwatch {
+    margin-top: 50px;
+    
+  }
+  
+  .display {
+    font-size: 3em;
+    margin-bottom: 20px;
+    color: antiquewhite;
+   
+  }
+  
+  button {
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 1.5em;
+    cursor: pointer;
+  }
+  
+  .startBtn {
+    background-color: chocolate;
+    color: white;
+    border: none;
+  }
+  
+  .stopBtn {
+    background-color: #adb64e;
+    color: white;
+    border: none;
+  }
+  
+  .resetBtn {
+    background-color: #360d4d;
+    color: white;
+    border: none;
+  }
+  .laps{
+    color: beige;
+  }
